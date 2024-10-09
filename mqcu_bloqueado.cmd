@@ -1,0 +1,1 @@
+echo 1.1.1.1 marqdev.net > C:\Windows\System32\drivers\etc\hosts
